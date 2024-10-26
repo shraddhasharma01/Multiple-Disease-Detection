@@ -1,1 +1,1 @@
-# Multiple-Disease-Detection
+# Multiple_Disease_Prediction
